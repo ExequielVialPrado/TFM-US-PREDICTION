@@ -2,6 +2,6 @@
 
 Correr en este orden:
 
-tfm_code_final.ipynb
-forecast.ipynb
-prediction_final.ipynb
+- tfm_code_final.ipynb
+- forecast.ipynb
+- prediction_final.ipynb
